@@ -1,0 +1,61 @@
+{
+  "name": "grunts",
+  "version": "0.0.0",
+  "author": "",
+  "homepage": "",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "dir":{
+    "src": "./src",
+    "dist": ".",
+    "pub": "./_gh_pages"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-autoprefixer": "~0.7.2",
+    "grunt-banner": "~0.2.0",
+    "grunt-bower-install": "~0.7.0",
+    "grunt-bower-task": "~0.3.4",
+    "grunt-build-control": "~0.1.3",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-coffee":"~0.11.1",
+    "grunt-contrib-compass":"~1.0.1",
+    "grunt-contrib-compress": "~0.12.0",
+    "grunt-contrib-concat":"~0.5.0",
+    "grunt-contrib-connect": "~0.7.1",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-csslint": "~0.2.0",
+    "grunt-contrib-cssmin": "~0.9.0",
+    "grunt-contrib-htmlmin": "~0.3.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-less": "~0.11.0",
+    "grunt-contrib-requirejs": "~0.4.1",
+    "grunt-contrib-sass":"~0.8.1",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-csscomb": "~2.0.1",
+    "grunt-ftp-deploy":"~0.1.7",
+    "grunt-gh-pages": "~0.6.0",
+    "grunt-html-validation": "~0.1.13",
+    "grunt-image":"~0.8.5",
+    "grunt-jekyll": "~0.4.1",
+    "grunt-kss":"~0.1.0",
+    "grunt-modernizr":"~0.6.0",
+    "grunt-notify": "~0.2.13",
+    "grunt-sftp-deploy":"~0.2.1",
+    "grunt-webfont":"~0.4.2",
+    "load-grunt-tasks": "~0.4.0",
+    "time-grunt": "~0.3.1"
+  }
+}
